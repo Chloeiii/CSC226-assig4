@@ -1,6 +1,5 @@
 //CSC226 assignment4
-//Yaxi Yu    
-//V00828218
+//Chloe Yu    
 /*============================================================*/
 //      8
 //    1 * 4    <-- encodings of various directions around a cell
